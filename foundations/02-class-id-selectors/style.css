@@ -1,0 +1,19 @@
+.cool {
+    background-color: rgb(253, 178, 192);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.cool.beans {
+    font-size: 24px;
+}
+
+#two {
+    background-color: rgb(82, 247, 82);
+    font-size: 24px;
+    font-weight: bold;
+}
